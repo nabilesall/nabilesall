@@ -1,5 +1,5 @@
 ### Hi 👋 je suis Idrissa Nabile Sall
-```tex
+```
 $
 \mathrm{e}^{i\pi}\, = \cos(\pi) + i.\sin(\pi) = -1
 $
