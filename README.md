@@ -41,6 +41,6 @@ Hammer Time !!
   [![](https://img.shields.io/badge/My%20portfolio!-%23DD0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAh0lEQVR42mP4//8/AyEMBP9xyhGjmWID8MoTsjnIjIs0F8A03rgtAdYMwjcnyv3H5RUMzSCNT5+n/3/9ph3MBmmG0TCDCBrw41cVSBGYjYzxGgDT/PErAxija8blCuobgA8PrAEwzTgNgBkCizZiNOM0AB/GawC6IcgpEZtmnHkBlmzRMTa1ADiTlZ/o3P27AAAAAElFTkSuQmCC)](https://idrissa-sall.com/portfolio)
  
 ## Stats(repo public)
-  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilesall&count_private=true&theme=tokyonight&langs_count=10)  
+  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilesall&count_private=true&theme=tokyonight&langs_count=15)  
   ![stats](https://github-readme-stats.vercel.app/api?username=nabilesall&count_private=true&show_icons=true&theme=tokyonight)
 </div>
